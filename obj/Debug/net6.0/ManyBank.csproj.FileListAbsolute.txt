@@ -1,0 +1,30 @@
+/Users/han/C#Code/ManyBank/bin/Debug/net6.0/ManyBank
+/Users/han/C#Code/ManyBank/bin/Debug/net6.0/ManyBank.deps.json
+/Users/han/C#Code/ManyBank/bin/Debug/net6.0/ManyBank.runtimeconfig.json
+/Users/han/C#Code/ManyBank/bin/Debug/net6.0/ManyBank.dll
+/Users/han/C#Code/ManyBank/bin/Debug/net6.0/ManyBank.pdb
+/Users/han/C#Code/ManyBank/obj/Debug/net6.0/ManyBank.csproj.AssemblyReference.cache
+/Users/han/C#Code/ManyBank/obj/Debug/net6.0/ManyBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/han/C#Code/ManyBank/obj/Debug/net6.0/ManyBank.AssemblyInfoInputs.cache
+/Users/han/C#Code/ManyBank/obj/Debug/net6.0/ManyBank.AssemblyInfo.cs
+/Users/han/C#Code/ManyBank/obj/Debug/net6.0/ManyBank.csproj.CoreCompileInputs.cache
+/Users/han/C#Code/ManyBank/obj/Debug/net6.0/ManyBank.dll
+/Users/han/C#Code/ManyBank/obj/Debug/net6.0/refint/ManyBank.dll
+/Users/han/C#Code/ManyBank/obj/Debug/net6.0/ManyBank.pdb
+/Users/han/C#Code/ManyBank/obj/Debug/net6.0/ManyBank.genruntimeconfig.cache
+/Users/han/C#Code/ManyBank/obj/Debug/net6.0/ref/ManyBank.dll
+/Users/han/C#Code/ManyBank Abstractweek7 /bin/Debug/net6.0/ManyBank
+/Users/han/C#Code/ManyBank Abstractweek7 /bin/Debug/net6.0/ManyBank.deps.json
+/Users/han/C#Code/ManyBank Abstractweek7 /bin/Debug/net6.0/ManyBank.runtimeconfig.json
+/Users/han/C#Code/ManyBank Abstractweek7 /bin/Debug/net6.0/ManyBank.dll
+/Users/han/C#Code/ManyBank Abstractweek7 /bin/Debug/net6.0/ManyBank.pdb
+/Users/han/C#Code/ManyBank Abstractweek7 /obj/Debug/net6.0/ManyBank.csproj.AssemblyReference.cache
+/Users/han/C#Code/ManyBank Abstractweek7 /obj/Debug/net6.0/ManyBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/han/C#Code/ManyBank Abstractweek7 /obj/Debug/net6.0/ManyBank.AssemblyInfoInputs.cache
+/Users/han/C#Code/ManyBank Abstractweek7 /obj/Debug/net6.0/ManyBank.AssemblyInfo.cs
+/Users/han/C#Code/ManyBank Abstractweek7 /obj/Debug/net6.0/ManyBank.csproj.CoreCompileInputs.cache
+/Users/han/C#Code/ManyBank Abstractweek7 /obj/Debug/net6.0/ManyBank.dll
+/Users/han/C#Code/ManyBank Abstractweek7 /obj/Debug/net6.0/refint/ManyBank.dll
+/Users/han/C#Code/ManyBank Abstractweek7 /obj/Debug/net6.0/ManyBank.pdb
+/Users/han/C#Code/ManyBank Abstractweek7 /obj/Debug/net6.0/ManyBank.genruntimeconfig.cache
+/Users/han/C#Code/ManyBank Abstractweek7 /obj/Debug/net6.0/ref/ManyBank.dll
